@@ -1,6 +1,0 @@
-# swimlane-test
-
-aws_access_key_id = AKIAZPVIBR67KAFPE6TS
-
-aws_secret_access_key = xaHZIWIPNXue393slB2g9W6ZG9O2hc7
-
